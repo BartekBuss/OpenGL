@@ -1,0 +1,12 @@
+C:\Users\Bartosz\Desktop\OpenGLTutorial5\OpenGLTutorial5\bin\Debug\OpenGLTutorial5.exe.config
+C:\Users\Bartosz\Desktop\OpenGLTutorial5\OpenGLTutorial5\bin\Debug\OpenGLTutorial5.exe
+C:\Users\Bartosz\Desktop\OpenGLTutorial5\OpenGLTutorial5\bin\Debug\OpenGLTutorial5.pdb
+C:\Users\Bartosz\Desktop\OpenGLTutorial5\OpenGLTutorial5\bin\Debug\OpenGL.dll
+C:\Users\Bartosz\Desktop\OpenGLTutorial5\OpenGLTutorial5\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Bartosz\Desktop\OpenGLTutorial5\OpenGLTutorial5\bin\Debug\OpenGL.dll.config
+C:\Users\Bartosz\Desktop\OpenGLTutorial5\OpenGLTutorial5\bin\Debug\Tao.FreeGlut.dll.config
+C:\Users\Bartosz\Desktop\OpenGLTutorial5\OpenGLTutorial5\obj\x86\Debug\OpenGLTutorial5.csproj.AssemblyReference.cache
+C:\Users\Bartosz\Desktop\OpenGLTutorial5\OpenGLTutorial5\obj\x86\Debug\OpenGLTutorial5.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz\Desktop\OpenGLTutorial5\OpenGLTutorial5\obj\x86\Debug\OpenGLTutorial5.csproj.CopyComplete
+C:\Users\Bartosz\Desktop\OpenGLTutorial5\OpenGLTutorial5\obj\x86\Debug\OpenGLTutorial5.exe
+C:\Users\Bartosz\Desktop\OpenGLTutorial5\OpenGLTutorial5\obj\x86\Debug\OpenGLTutorial5.pdb
